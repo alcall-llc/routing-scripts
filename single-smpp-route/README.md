@@ -17,7 +17,9 @@ This code selects an SMPP connection and sets up some rules for sending messages
     passToNextSmtpIfFail: false,
     sendViaWhatsappIfFail: true
    }
-   ### Configuration Breakdown
+
+
+
 
 | Property                 | Value      | Description |
 |--------------------------|------------|-------------|
